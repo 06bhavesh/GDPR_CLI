@@ -9,7 +9,7 @@ What it does:
 
 How to run it:
 Just type this:
-g++ -std=c++17 *.cpp -o gdpr_cli.exe (compilation command)
+g++ -std=c++17 main.cpp questions.cpp scoring.cpp -o gdpr_cli.exe (compilation command)
 ./gdpr_cli.exe (command to run the file)
 
 Menu options:
